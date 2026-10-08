@@ -1,2 +1,3 @@
 # my-learning-journal-DSAI
-Notes 
+
+ Updated from GitHub directly
