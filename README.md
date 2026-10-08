@@ -1,2 +1,2 @@
-# my-learning-journal-DSAI-
+# my-learning-journal-DSAI
 Notes 
